@@ -6,5 +6,5 @@
 -  OR 
 4. "Load unpacked extension" and choose folder with this repo cloned.
 
-# 1. How to use #
+# 2. How to use #
 Open frontend -> sign in -> click on the extension icon
